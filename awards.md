@@ -3,10 +3,6 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-
-> Lastest Update: 8th Jan 2024 &nbsp; 
-
-
 ## Awards
 
 - Nov 2021: Second Prize in China's Undergraduate Physics Experimental Contest(CUPEC) 
