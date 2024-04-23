@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2020 - July 2024:** Yunnan University,  Kunming (BSc in Physics)
 - **Sep 2021- Aug 2022:** Fudan University, Shanghai (Joint Cultivation Porgram)
-- **Jan 2024 - Mar 2024: ** UCSB (exchange student)
+- **Jan 2024 - Mar 2024:** UCSB (exchange student)
 - **Oct 2024 -** Osaka University (Graduate student)
 
 ---
