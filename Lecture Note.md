@@ -1,4 +1,10 @@
-我的部分专业课笔记
+---
+layout: page
+permalink: /Lecture Note/index.html
+title: Lecture Note
+---
+
+我的部分专业课笔记展示如下
 
 - 2022 秋-量子力学 (陈清)
 - 2022 秋-电动力学 (周曙白, 已绝版)
