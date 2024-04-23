@@ -32,7 +32,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Updates
 
-- **April 2024: ** An upcoming zoom Interview with [Prof. ‪Kentaro Nagamine](http://astro-osaka.jp/kn/) at Osaka University in Japan for the application of Master's program.
+- **April 2024:** An upcoming zoom Interview with [Prof. ‪Kentaro Nagamine](http://astro-osaka.jp/kn/) at Osaka University in Japan for the application of Master's program.
 
 
 
