@@ -12,8 +12,8 @@ owner:
   email: cduttangzifan@gmail.com
   cv: https://anatole12138.github.io/file/CV-Zifan-Tang-04-2024.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: lancecai2002
-  github: Antonio12138
+  # twitter: lancecai2002
+  # github: Antonio12138
   zhihu: https://www.zhihu.com/people/tang-zi-fan-27
   linkedin(TBD): https://www.linkedin.com/in/%E5%AD%90%E5%87%A1-%E6%B1%A4-1180852ab/
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
@@ -45,6 +45,8 @@ links:
     #url: /publications/
   - title: Awards(TBD)
     url: /awards/
+  - title: Lecture Note
+    url: /zifan-Lecture-Note
   - title: Hobbies(TBD)
   - title: 复旦联培
     url: /FDU-Join-Cultivation
