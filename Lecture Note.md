@@ -5,16 +5,16 @@ title: Lecture Note
 ---
 # Lecture Note(TBD)
 
-这部分是我在云大学习部分专业课的笔记，大部分是用 Obsidian （一种 Markdown 语法编辑器）随堂记录。少部分老师自己编写讲义，也展示如下。
+这部分是我在云大学习部分专业课的笔记，大部分是用 [Obsidian](https://obsidian.md/)（一种 Markdown 语法编辑器）随堂记录。少部分老师自己编写讲义，也展示如下。
 ## Junior
 - 2022 Fall - Quantum Mechanics - 陈清 - 课堂笔记
 - 2022 Fall - Electrodynamics - 周曙白（已退休）- 课堂笔记
   
 - 2022 Fall - Fluid Mechanics - [张广鹏](http://www.science.ynu.edu.cn/info/1058/1090.htm) - 自编讲义
-- 2022 Fall - General Relativity - [范忠辉](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - 课后笔记<br>
+- 2022 Fall - General Relativity - [范忠辉](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - [课后笔记](https://anatole12138.github.io/file/General Relativity_Lecture Notes_Zifan.pdf)<br>
 
 ## Senior
-- 2023 Spring - Cosmology - [王俊](http://www.science.ynu.edu.cn/info/1042/1108.htm) - 课后笔记
+- 2023 Spring - Cosmology - [王俊](http://www.science.ynu.edu.cn/info/1042/1108.htm) - [课后笔记](https://anatole12138.github.io/file/Cosmology_Lecture Notes_Zifan)
 - 2023 Spring - Computational Physics - [李向华](http://www.science.ynu.edu.cn/info/1058/1122.htm) - 实验课期末论文
 - 2023 Spring - Statistical Mechanics - [郑波](https://person.zju.edu.cn/0001056) - 自编讲义
 - 2023 Spring - Mathematical Methods for Physics - 周曙白 - 课堂笔记<br>
