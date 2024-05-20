@@ -11,7 +11,7 @@ title: Lecture Note
 - 2022 Fall - Electrodynamics - 周曙白（已退休）- 课堂笔记
   
 - 2022 Fall - Fluid Mechanics - [张广鹏](http://www.science.ynu.edu.cn/info/1058/1090.htm) - 自编讲义
-- 2022 Fall - General Relativity - [范忠辉](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - [课后笔记](https://anatole12138.github.io/file/General_Relativity_Lecture Notes_Zifan.pdf)<br>
+- 2022 Fall - General Relativity - [范忠辉](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - [课后笔记](https://anatole12138.github.io/file/General_Relativity_Lecture_Notes_Zifan.pdf)<br>
 
 ## Senior
 - 2023 Spring - Cosmology - [王俊](http://www.science.ynu.edu.cn/info/1042/1108.htm) - [课后笔记](https://anatole12138.github.io/file/Cosmology_Lecture_Notes_Zifan)
