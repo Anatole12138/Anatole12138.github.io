@@ -28,6 +28,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **April 2024:** An upcoming zoom Interview with [Prof. ‪Kentaro Nagamine](http://astro-osaka.jp/kn/) at Osaka University in Japan for the application of Master's program.
 
-- **May 5  2024:** 
+- **May 15, 2024:** Interview with Osaka's was finished. The interview lasted 50 minutes and I was exhausted. In the evening, I also passed my Bachelor‘s thesis defence.
+
+- **May 20, 2024** Application to the Osaka Univerity was rejected. This interview was my last chance. This is a very unexpected failure because the professor there is one of my supervisor's collaborator. My supervisor suggests I prepare for the next year's application. But I haven't decided yet.
+
 
 
