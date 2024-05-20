@@ -11,10 +11,10 @@ title: Lecture Note
 - 2022 Fall - Electrodynamics - 周曙白（已退休）- 课堂笔记
   
 - 2022 Fall - Fluid Mechanics - [张广鹏](http://www.science.ynu.edu.cn/info/1058/1090.htm) - 自编讲义
-- 2022 Fall - General Relativity - [范忠辉](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - [课后笔记](https://anatole12138.github.io/file/General-Relativity-LectureNotes-Zifan.pdf)<br> - [第七章的个人汇报](https://anatole12138.github.io/file/宇宙学常数与真空能.pdf)（在这门课的小组讨论、小组汇报等环节上节约时间，因为学不到真东西）
+- 2022 Fall - General Relativity - [范忠辉](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - [课后笔记](https://anatole12138.github.io/file/General-Relativity-LectureNotes-Zifan.pdf)<br> 
 
 ## Senior
-- 2023 Spring - Cosmology - [王俊](http://www.science.ynu.edu.cn/info/1042/1108.htm) - [课后笔记](https://anatole12138.github.io/file/Cosmology-LectureNotes-Zifan.pdf)
+- 2023 Spring - Cosmology - [王俊](http://www.science.ynu.edu.cn/info/1042/1108.htm) - [课后笔记](https://anatole12138.github.io/file/Cosmology-LectureNotes-Zifan.pdf) - [期末论文](https://anatole12138.github.io/file/宇宙学常数与真空能.pdf) - [第七章个人汇报](https://anatole12138.github.io/file/物理宇宙学-Pre) - [小组讨论稿](https://anatole12138.github.io/file/GroupDiscussion.pdf)
 
 - 2023 Spring - Computational Physics - [李向华](http://www.science.ynu.edu.cn/info/1058/1122.htm) - 实验课期末论文
 - 2023 Spring - Statistical Mechanics - [郑波](https://person.zju.edu.cn/0001056) - 自编讲义
