@@ -13,7 +13,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2020 - July 2024(expected):** Yunnan University,  Kunming (BSc in Physics)
 - **Sep 2021- Aug 2022:** Fudan University, Shanghai (Joint Cultivation Porgram)
 - **Jan 2024 - Mar 2024:** UCSB (exchange student)
-- **Oct 2024 -** Osaka University (Graduate student)
+
 
 ---
 
@@ -28,5 +28,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **April 2024:** An upcoming zoom Interview with [Prof. ‪Kentaro Nagamine](http://astro-osaka.jp/kn/) at Osaka University in Japan for the application of Master's program.
 
+- **May 5  2024:** 
 
 
