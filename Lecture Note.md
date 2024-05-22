@@ -7,9 +7,9 @@ title: Lecture Note
 
 这部分是我在云大学习部分专业课的笔记，部分是用 [Obsidian](https://obsidian.md/)（一种 Markdown 语法编辑器）随堂记录，部分摘自老师自己编写的讲义或 slides.
 ## Junior
-- 2022 Fall - Quantum Mechanics - 陈清 - 课堂笔记
-- 2022 Fall - Electrodynamics - 周曙白（已退休）- [课堂笔记](https://anatole12138.github.io/file/Mathematical Methods for Physics.pdf)
-  
+- 2022 Fall - Quantum Mechanics - 陈清 - [课后笔记-第 1, 2, 3, 4 章](https://anatole12138.github.io/file/Quantum Mechanics_ CH 01, 02, 03, 04.pdf) - [课后笔记-第 5, 6, 7, 8 章](https://anatole12138.github.io/file/Quantum Mechanics_ CH 05, 06, 07, 08.pdf)
+- 2022 Fall - Electrodynamics - 周曙白（已退休）- [课堂笔记](https://anatole12138.github.io/file/Mathematical Methods for Physics.pdf) 
+   
 - 2022 Fall - Fluid Mechanics - [张广鹏](http://www.science.ynu.edu.cn/info/1058/1090.htm) - 自编讲义
 - 2022 Fall - General Relativity - [范忠辉](http://www.astro.ynu.edu.cn/info/1008/1086.htm) - [课后笔记](https://anatole12138.github.io/file/General-Relativity-LectureNotes-Zifan.pdf)<br> 
 
